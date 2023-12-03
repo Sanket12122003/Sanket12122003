@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket12122003&label=Profile%20views&color=0e75b6&style=flat" alt="sanket12122003" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sanket-portffolioo.netlify.app/](https://sanket-portffolioo.netlify.app/)
+- 👨‍💻  All of my projects are available at [https://sanket-portffolioo.netlify.app/](https://sanket-portffolioo.netlify.app/)
 
 - 💬 Ask me about **MERN Stack**
 
